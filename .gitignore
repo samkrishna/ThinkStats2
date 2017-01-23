@@ -52,6 +52,9 @@ coverage.xml
 # Sphinx documentation
 docs/_build/
 
+# IPython / Jupyter
+*checkpoint*
+
 *.pdf
 *.eps
 *.png
