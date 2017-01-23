@@ -32,3 +32,16 @@ Once I started IPython from the command prompt, I was able to run the `nsfg.py` 
 ```
 
 and it reported "All tests passed."
+
+On a personal note, I also use the following ipython alias (for zsh):
+
+```
+ipython='ipython --TerminalInteractiveShell.highlighting_style="native"'
+```
+
+To run the notebooks like `chap01ex.ipynb` from Jupyter, do the following:
+
+```
+$ jupyter notebook chap01ex.ipynb
+```
+
